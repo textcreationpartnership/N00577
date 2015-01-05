@@ -112,15 +112,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000707_0000_0FA9A594A807AA58"/>
-            <pb facs="tcp:000707_0001_0FA9A595787E95E0"/>
+            <pb facs="unknown:000707_0000_0FA9A594A807AA58"/>
+            <pb facs="unknown:000707_0001_0FA9A595787E95E0"/>
             <p>A SHORT CATECHISM Composed By Mr. <hi>James Noyes,</hi> Late Teacher of the <hi>Church</hi> of <hi>CHRIST</hi> in NEWBURY, in New-England. For the use of the <hi>Children</hi> there.</p>
             <p>BOSTON, Printed by <hi>Bartholomew Green.</hi> 1694.</p>
          </div>
       </front>
       <body>
          <div type="catechism">
-            <pb n="3" facs="tcp:000707_0002_0FA9A59CEEC80748"/>
+            <pb n="3" facs="unknown:000707_0002_0FA9A59CEEC80748"/>
             <head>A Short CATECHISM By way of <hi>Question</hi> and <hi>Answer.</hi>
             </head>
             <p>Quest.<note place="margin">
@@ -141,7 +141,7 @@
             <p>
                <hi>A.</hi> Faith is an effectual assent to the Doctrine of the Scriptures, especially concerning the Grace of God in Christ.</p>
             <p>
-               <pb n="4" facs="tcp:000707_0003_0FA9A59F77AE5D30"/>Q. <hi>What doth the Scripture reveal concerning God?</hi>
+               <pb n="4" facs="unknown:000707_0003_0FA9A59F77AE5D30"/>Q. <hi>What doth the Scripture reveal concerning God?</hi>
             </p>
             <p>
                <hi>A.</hi> His Nature, and his Acts.</p>
@@ -174,7 +174,7 @@
             <p>
                <hi>A.</hi> Twofold, general and particular.</p>
             <p>
-               <pb n="5" facs="tcp:000707_0004_0FA9A5A063BEB220"/>Q. <hi>What is the general Decree of God?</hi>
+               <pb n="5" facs="unknown:000707_0004_0FA9A5A063BEB220"/>Q. <hi>What is the general Decree of God?</hi>
             </p>
             <p>
                <hi>A.</hi> An eternal act of God whereby he did determine to make the World, and dispose of all things therein.</p>
@@ -209,7 +209,7 @@
             </p>
             <p>
                <hi>A.</hi> A temporal act of God whereby
-<pb n="6" facs="tcp:000707_0005_0FA9A5A2A51151A0"/>
+<pb n="6" facs="unknown:000707_0005_0FA9A5A2A51151A0"/>
 he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to a special Covenant.</p>
             <p>Q. <hi>How many Covenants hath God made with man?</hi>
             </p>
@@ -261,7 +261,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
                   <hi>Rom.</hi> 3 19.23</note>Q. <hi>What is Punishment?</hi>
             </p>
             <p>
-               <pb n="7" facs="tcp:000707_0006_0FA9A5A362756558"/>
+               <pb n="7" facs="unknown:000707_0006_0FA9A5A362756558"/>
                <hi>A.</hi> An infliction of evil for sin;<note place="margin">
                   <hi>Rom.</hi> 5 12. <hi>&amp;</hi> 6 23.</note> namely, Death temporal and eternal.</p>
             <p>Q. <hi>How may we escape eternal Death?</hi>
@@ -296,7 +296,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
             <p>Q. <hi>What is the personal union of Christ?</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:000707_0007_0FA9A5A3A97213B0"/>
+               <pb n="8" facs="unknown:000707_0007_0FA9A5A3A97213B0"/>
                <note place="margin">
                   <hi>Phil.</hi> 2 6, 7, 8</note>
                <hi>A.</hi> The Subsistence of the Humane na<g ref="char:EOLhyphen"/>ture in the second person of the Deity.</p>
@@ -340,7 +340,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
                   <hi>Rom.</hi> 8 30</note>
             </p>
             <p>
-               <pb n="9" facs="tcp:000707_0008_0FA9A5A489349CF8"/>Q. <hi>VVhat is Faith?</hi>
+               <pb n="9" facs="unknown:000707_0008_0FA9A5A489349CF8"/>Q. <hi>VVhat is Faith?</hi>
                <note place="margin">
                   <hi>Mat</hi> 16 28</note>
             </p>
@@ -377,7 +377,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
             <p>
                <hi>A.</hi> By the experiencing of the graces of the Spirit,<note place="margin">1 <hi>Thes</hi> 1.4, 5, 6 7 <hi>Rom</hi> 8.15</note> and by the witness of the Spirit helping us to discern the truth of them.</p>
             <p>
-               <pb n="10" facs="tcp:000707_0009_0FA9A5A5344DCD10"/>Q <hi>What is the subject of Redemption?</hi>
+               <pb n="10" facs="unknown:000707_0009_0FA9A5A5344DCD10"/>Q <hi>What is the subject of Redemption?</hi>
             </p>
             <p>A The Church.</p>
             <p>Q <hi>What are the means of applying Redemption?</hi>
@@ -413,7 +413,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
             <p>Q <hi>VVhat is the thing signified in the Lords Supper?</hi>
             </p>
             <p>
-               <pb n="11" facs="tcp:000707_0010_0FA9A5A5EB0CD408"/>
+               <pb n="11" facs="unknown:000707_0010_0FA9A5A5EB0CD408"/>
                <hi>A.</hi> The Body of Christ broken on the Cross, his Blood shed for our sins,<note place="margin">1 <hi>Cor</hi> 11 23, 24, 25, 26. <hi>Joh</hi> 6 51</note> of<g ref="char:EOLhyphen"/>fered to sinners in the way of believ<g ref="char:EOLhyphen"/>ing, and received by Faith, for assu<g ref="char:EOLhyphen"/>rance of eternal life.</p>
             <p>Q. <hi>What is Discipline?</hi>
             </p>
@@ -460,7 +460,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
             <p>Q <hi>What is contained in the first Com<g ref="char:EOLhyphen"/>mandment?</hi>
             </p>
             <p>
-               <pb n="12" facs="tcp:000707_0011_0FA9A5A6A82AA378"/>
+               <pb n="12" facs="unknown:000707_0011_0FA9A5A6A82AA378"/>
                <hi>A.</hi> Natural Worship; in Faith, Hope, Love, Fear, hearing the Word <hi>&amp;</hi> Prayer.</p>
             <p>Q <hi>What is Hope?</hi>
             </p>
@@ -499,7 +499,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
             <p>
                <hi>A</hi> A due respect to the good name or dignity of our Neighbour, in humi<g ref="char:EOLhyphen"/>lity, gratitude and obedience.</p>
             <p>
-               <pb n="13" facs="tcp:000707_0012_0FA9A5A79B58AFC8"/>
+               <pb n="13" facs="unknown:000707_0012_0FA9A5A79B58AFC8"/>
                <hi>Q What is humility?</hi>
             </p>
             <p>
@@ -549,7 +549,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
                <hi>Q What is contained in the seventh Commandment?</hi>
             </p>
             <p>
-               <pb n="14" facs="tcp:000707_0013_0FA9A5ABC5C631F8"/>
+               <pb n="14" facs="unknown:000707_0013_0FA9A5ABC5C631F8"/>
                <hi>A</hi> A due respect to the purity of our Neighbour, in temperance, chastity modesty, gravity.</p>
             <p>
                <hi>Q What is Temperance?</hi>
@@ -602,7 +602,7 @@ he doth dispose of the reasonable crea<g ref="char:EOLhyphen"/>ture according to
                <hi>Q What is Frugality?</hi>
             </p>
             <p>
-               <pb n="15" facs="tcp:000707_0014_0FA9A5AE48602658"/>
+               <pb n="15" facs="unknown:000707_0014_0FA9A5AE48602658"/>
                <hi>A</hi> A grace which inclineth us to be Provident and diligent in our calling.<note place="margin">
                   <hi>Prov</hi> 31 27</note>
             </p>
